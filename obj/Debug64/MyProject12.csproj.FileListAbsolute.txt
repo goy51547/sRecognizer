@@ -1,0 +1,5 @@
+c:\users\bingf_000\documents\visual studio 2015\Projects\MyProject12\MyProject12\bin\MyProject12.dll
+c:\users\bingf_000\documents\visual studio 2015\Projects\MyProject12\MyProject12\bin\MyProject12.pdb
+c:\users\bingf_000\documents\visual studio 2015\Projects\MyProject12\MyProject12\obj\Debug64\MyProject12.dll
+c:\users\bingf_000\documents\visual studio 2015\Projects\MyProject12\MyProject12\obj\Debug64\MyProject12.pdb
+C:\Users\bingf_000\Documents\Visual Studio 2015\Projects\MyProject12\MyProject12\obj\Debug64\MyProject12.csprojResolveAssemblyReference.cache
